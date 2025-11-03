@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning Java
 
-💬 Ask me about C
+💬 Ask me about Linux
 
 ⚡ Fun fact I enjoy automating boring tasks with scripts
 
